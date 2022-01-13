@@ -1,0 +1,12 @@
+{
+  "name": "my_bevy_game",
+  "version": "0.1.0",
+  "files": [
+    "my_bevy_game_bg.wasm",
+    "my_bevy_game.js",
+    "my_bevy_game.d.ts"
+  ],
+  "module": "my_bevy_game.js",
+  "types": "my_bevy_game.d.ts",
+  "sideEffects": false
+}
